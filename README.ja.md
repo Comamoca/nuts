@@ -5,9 +5,7 @@
 ![Issues](https://img.shields.io/github/issues/Comamoca/nuts?style=flat-square)
 ![Open Issues](https://img.shields.io/github/issues-raw/Comamoca/nuts?style=flat-square)
 ![Bug Issues](https://img.shields.io/github/issues/Comamoca/nuts/bug?style=flat-square)
-[![GoDev][godev-image]][godev-url]
-[godev-image]: https://pkg.go.dev/badge/github.com/Comamoca/nuts
-[godev-url]: https://pkg.go.dev/github.com/Comamoca/nuts
+![GoDev](https://pkg.go.dev/badge/github.com/Comamoca/nuts)
 
 # nuts 🥜
 
