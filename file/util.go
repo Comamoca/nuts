@@ -1,4 +1,4 @@
-package file
+package nuts
 
 import (
 	"fmt"
@@ -7,6 +7,7 @@ import (
 	"path/filepath"
 )
 
+// Open a text file as a string.
 func TextOpen(path string) string {
 	f, err := os.Open(path)
 	if err != nil {
@@ -20,6 +21,7 @@ func TextOpen(path string) string {
 	return text
 }
 
+// Returns the text contents of the file at the specified path.
 func RemoveFiles(dir string) error {
 	d, err := os.Open(dir)
 	if err != nil {
