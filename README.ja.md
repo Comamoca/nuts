@@ -11,29 +11,29 @@
 
 # nuts 🥜
 
-Go's snippet library
+Goのスニペットライブラリ
 
 </div>
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">🍔English</th>
-      <th style="text-align:center"><a href="README.ja.md">🍡日本語</a></th>
+      <th style="text-align:center">🍡日本語</th>
+      <th style="text-align:center"><a href="README.md">🍔English</a></th>
     </tr>
   </thead>
 </table>
 
-## 🚀 How to use
+## 🚀 使い方
 
 ```
 go get github.com/Comamoca/nuts
 ```
 
-Install it with `go get`.
-See [Go Doc](https://pkg.go.dev/github.com/Comamoca/nuts) for each function.
+`go get`でインストールします。
+各関数などは[Go Doc](https://pkg.go.dev/github.com/Comamoca/nuts)を参照してください。
 
-## ⛏️ Development
+## ⛏️   開発
 
 ```sh
 git clone https://github.com/Comamoca/nuts
@@ -44,7 +44,7 @@ go mod tidy
 
 - [ ] Not yet...
 
-## 📜 License
+## 📜 ライセンス
 
 MIT
 
@@ -52,10 +52,10 @@ MIT
 
 Not yet...
 
-## 👏 Impacted projects
+## 👏 影響を受けたプロジェクト
 
 [motemen/go-nuts](https://github.com/motemen/go-nuts)
 
-## 💕 special thanks
+## 💕 スペシャルサンクス
 
 [HidemaruOwO](https://github.com/HidemaruOwO)
